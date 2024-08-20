@@ -7,7 +7,7 @@ import java.net.URL;
 public class SlackBot {
 
     // for testing purpose to check the communication is working or no
-    private static final String TOKEN = "xoxb-7596320426835-7596814142226-l3w5Qz5cGyTigTSMEytVZhMg";
+    private static final String TOKEN = "";
     private static final String CHANNEL_ID = "cerebra_task_chartbot";
     private static final String SLACK_API_URL = "https://slack.com/api/chat.postMessage";
 
